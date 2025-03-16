@@ -84,6 +84,3 @@ Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb)
 
 # Related paper by God Bennett to xSynth's answer [at 2:15 in video](https://youtu.be/pxgLJSd3_-s?t=115):
 
-https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence
-
-
