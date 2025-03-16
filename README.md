@@ -10,6 +10,11 @@
 https://youtu.be/pxgLJSd3_-s
 
 
+# Tech Stack
+Unity3d, C# including custom shader adjustments to enable compatibility/rendering on Honda Civic.
+Without these adjustment, the Honda Civic renders a blank screen.
+
+
 # Goals (Long term)
 * A friendly conversational ai agent doubling as an assistant and interactive automobile manager, embodied in [cryptosynth aeon](https://github.com/g0dEngineer/Cryptosynth) being form.
 * Instead of stopping to type in directions in Waze for eg, or voicing commands to car play, one could speak with my 3d being xSynth in natural language to get useful data.
