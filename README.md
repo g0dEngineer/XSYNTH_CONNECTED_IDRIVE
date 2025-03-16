@@ -15,7 +15,7 @@ https://youtu.be/pxgLJSd3_-s
 
 # Tech Stack
 Unity3d, C# including custom shader adjustments to enable compatibility/rendering on Honda Civic.
-Without these adjustment, the Honda Civic renders a blank screen.
+Without these adjustments, the Honda Civic renders a blank screen.
 
 
 # Goals (Long term)
