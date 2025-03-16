@@ -10,7 +10,7 @@ Read more here: https://github.com/g0dEngineer/XSYNTH_CONNECTED_IDRIVE/blob/main
 
 # xSynth by God Bennett @god_bennett
 
-![image](https://github.com/g0dEngineer/XSYNTH_CONNECTED_IDRIVE/blob/main/XSYNTH_CONNECTED_DRIVE_LQ_GIF_III.gif)
+![image](https://github.com/g0dEngineer/XSYNTH_CONNECTED_IDRIVE/blob/main/data/XSYNTH_CONNECTED_DRIVE_LQ_GIF_III.gif)
 
 
 # World's 1st 3d automobile Ai friend and assistant for Honda Civic 10th generation 
