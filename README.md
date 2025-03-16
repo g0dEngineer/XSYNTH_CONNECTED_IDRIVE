@@ -1,3 +1,11 @@
+# Tagline
+
+xSynth Connected iDrive, is an automobile/console mounted, embodied Ai/3d humanoid/conversational friend/helpful assistant utilizing IBM's Ai infrastructure enabling functions from friendly conversation to xSynth being able to tell driver of the nearest hospital, or getting xSynth to remind the driver of the closest oil filter depot. (Works with default car console)
+
+Read more here: https://github.com/g0dEngineer/XSYNTH_CONNECTED_IDRIVE/blob/main/data/PricingPlan.md
+
+
+
 ![image](https://github.com/g0dEngineer/XSYNTH_CONNECTED_IDRIVE/blob/main/data/xSynthIcon.jpg)
 
 # xSynth by God Bennett @god_bennett
