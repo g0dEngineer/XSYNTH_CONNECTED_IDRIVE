@@ -8,7 +8,7 @@ Read more here: https://github.com/iCosmosNeuroverse/XSYNTH_CONNECTED_IDRIVE/blo
 
 ![image](https://github.com/iCosmosNeuroverse/XSYNTH_CONNECTED_IDRIVE/blob/main/data/xSynthIcon.jpg)
 
-# xSynth by Cosmos Bennett @cosmos_bennett
+# xSynth by Cosmos Bennett @iCosmosNeuroverse
 
 ![image](https://github.com/iCosmosNeuroverse/XSYNTH_CONNECTED_IDRIVE/blob/main/data/XSYNTH_CONNECTED_DRIVE_LQ_GIF_III.gif)
 
